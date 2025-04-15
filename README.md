@@ -1,2 +1,33 @@
-# report_12345
-移动端 chat 北京12345AI问答
+# tech_report
+
+客户报
+
+## Project setup
+
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+
+```
+yarn build
+```
+
+### Lints and fixes files
+
+```
+yarn lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](image.png)
+![alt text](image-1.png)
